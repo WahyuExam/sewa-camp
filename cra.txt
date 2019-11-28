@@ -1,0 +1,5 @@
+cara pakai
+================================
+import tabel ke database, nama filenya tblrugilaba.sql
+
+pindahkan semua folder yg ku kirim ni kedalam folder appsewacamp, hapus dulu folder sebelumnya (folder yang dihapus folder yg sama namanya lawan yg kukirimi ni )
